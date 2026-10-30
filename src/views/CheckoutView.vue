@@ -294,7 +294,7 @@
             class="pt-4 border-t border-slate-100 space-y-3 text-xs"
           >
             <div class="font-bold text-slate-900 flex items-center justify-between">
-              <span>აირჩიეთ კლინიკური ფილიალი გატანისთვის:</span>
+              <span>აირჩიეთ უახლოესი ფილიალი გატანისთვის:</span>
               <span class="text-brand-700 font-bold">უფასო (0.00 ₾)</span>
             </div>
 
